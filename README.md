@@ -1,17 +1,17 @@
-Hello, World! 👋 I'm Atlan — a backend & game developer with a passion for innovative technologies. I love a good problem-solving challenge to bring such innovations to life in the most efficient way possible.
+Hello, World! 👋 I'm Atlan. I specialise in backend development but I also like to do some game development in my pasttime. I have a passion for novel and niche products and coming up with solutions to the challenges they pose when bringing them to fruition.
 
-I'm very adaptable and able to thrive in solo as well as group development environments.
-
-I speak English but also type in the following languages:
+I talk to humans in English and communicate with computers in...
 * JavaScript
 * TypeScript
 * Lua
+* Go
+* C#
 
-In addition to languages, I also have the following technical skills...
+In addition to languages, I also posess the following technical skills, to name a few:
 * Node.js
 * REST APIs with Express
 * SQL & NoSQL databases - MySQL, MongoDB (plus Redis caching)
-* Designing & programming .NET WinForms apps
+* .NET WinForms apps
 * DevOps
 
-I'm very open to learning new technologies so these lists will expand with time :)
+I'm always keen to learn new technologies so these lists will expand with time :)
